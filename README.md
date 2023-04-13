@@ -14,7 +14,9 @@
 
 <br><br>
 
-
+### Mes Badges:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 ---
 
 </details>
