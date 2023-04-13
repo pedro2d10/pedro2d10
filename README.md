@@ -13,6 +13,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"/>
 
 <br><br>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="62830bda-3b81-4dec-a6e8-9f0fc5c05af7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ---
 
 </details>
