@@ -16,6 +16,7 @@
 
 ### Mes Badges:
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/62830bda-3b81-4dec-a6e8-9f0fc5c05af7 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 ---
 
