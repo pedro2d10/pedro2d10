@@ -18,7 +18,7 @@
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/9bab7e1d-e17d-4319-a918-990c480003fd "AWS Certified Solutions Architect – Associate")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/62830bda-3b81-4dec-a6e8-9f0fc5c05af7 "AWS Cloud Quest: Cloud Practitioner")
-[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/637ffbee-ebdc-461f-9ec6-962c32518329/image.png)](http://www.credly.com/badges/637ffbee-ebdc-461f-9ec6-962c32518329 "AWS Certified SysOps Administrator – Associate")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/220x220/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/637ffbee-ebdc-461f-9ec6-962c32518329 "AWS Certified SysOps Administrator – Associate")
 <!--END_SECTION:badges-->
 ---
 
